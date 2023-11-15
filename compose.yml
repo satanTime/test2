@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  service:
+    image: satantime/test:stable-version-18.0.0
